@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://app.daily.dev/rababsa"><img src="https://api.daily.dev/devcards/08bd1bb4614644e2ba1944f2b4398cab.png?r=4su" width="400" alt="RENAUD ABABSA's Dev Card"/></a>
 -->
 
 
-<a href="https://app.daily.dev/rababsa"><img src="https://api.daily.dev/devcards/08bd1bb4614644e2ba1944f2b4398cab.png?r=4su" width="400" alt="RENAUD ABABSA's Dev Card"/></a>
+
